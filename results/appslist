@@ -853,6 +853,7 @@ gnumeric
 go-pd
 go-pd-gui
 go-spotify-cli
+gobuster
 godmode
 godot
 gojq
@@ -1464,7 +1465,6 @@ ocvvid2fulldome
 ocvwarp
 odicto
 oh
-oh-my-git
 oh-mymd
 olive
 olive-legacy
@@ -1671,7 +1671,6 @@ pomatez
 pomodorolm
 pomotroid
 pop
-popcorn
 popsicle
 positron
 postcat
@@ -2247,7 +2246,6 @@ tweet-tray
 twetter
 twitch-wrapper
 typioca
-tzared
 uad-ng
 ubiquity
 ubports-installer

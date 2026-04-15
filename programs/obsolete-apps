@@ -161,7 +161,6 @@ converter432hz 2024
 cordlauncher 2019
 cosmonium 2024
 cowitness 2024
-cpeditor 2024
 cpod 2024
 craftos-pc 2024
 crg-data-tool 2022
@@ -291,7 +290,6 @@ fifo 2023
 figma-linux 2024
 file-converter 2021
 file-to-c 2023
-filmulator-gui 2021
 firecamp 2024
 fishterm 2022
 flare 2023
@@ -299,7 +297,6 @@ flawesome 2020
 flb 2022
 flightgear-airports 2021
 flippy-qualitative-testbench 2021
-fluent-reader 2023
 fman 2022
 fmradio 2018
 focalizzare 2024
@@ -413,7 +410,6 @@ iheartradio-webapp 2021
 imagemosaicwall 2020
 imagine 2023
 imapsyncclient 2020
-imfile 2024
 impact 2018
 impposter 2019
 inboxer 2019
@@ -751,7 +747,6 @@ qmasterpassword 2023
 qnapi 2018
 qppcad 2021
 qr-code-generator 2019
-qrop 2019
 qrscan 2023
 qsdrswr 2018
 qtads 2023
@@ -888,13 +883,13 @@ statuspilatus 2019
 steam-tui 2024
 steamcad 2020
 steem-messenger 2018
-stele 2024
 stockstalk 2018
 stoplight 2019
 storadit 2022
 storaji 2018
 storyboarder 2022
 strans 2019
+strata 2021
 streamlink-twitch-gui 2024
 streamon 2023
 studymd 2018
@@ -1069,9 +1064,7 @@ xdg-ninja 2024
 xelfviewer 2023
 xilinota 2024
 xplist 2022
-xplorer 2022
 xtuber 2024
-xxh 2024
 yaf 2022
 yaka 2022
 yam 2022

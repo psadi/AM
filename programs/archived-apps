@@ -58,6 +58,7 @@ exe
 fakedata
 fetchit
 file-to-c
+filebrowser
 fishing-funds
 fontlet
 freecad
@@ -65,7 +66,6 @@ freeman
 freezer
 friction
 fukayo
-gameconqueror
 gamehub
 ganache
 gdlauncher
@@ -154,7 +154,6 @@ radix-wallet
 rainbow-board
 rclone-browser
 rclone-gui-manager
-real-video-enhancer
 rebaslight
 reor
 ridereceipts
